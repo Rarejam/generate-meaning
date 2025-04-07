@@ -25,6 +25,7 @@ generateBtn.addEventListener('click',() => {
     // const note = await fetch('https://en.wikipedia.org/api/rest_v1/page/summary/Spoon')
     const data = await note.json()
 //     try{
+
 //     if(!data.extract){
 //         throw new Error('there is no avaiable explanation of such';
 //     }
